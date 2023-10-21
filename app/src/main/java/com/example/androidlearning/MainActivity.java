@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         Button button3= findViewById(R.id.button11_id);
 
         button1.setOnClickListener(v->{
-            button1.setBackgroundColor(getResources().getColor(R.color.red));
+            button1.setBackgroundColor(getResources().getColor(R.color.yellow));
             button2.setBackgroundColor(getResources().getColor(R.color.black));
             button3.setBackgroundColor(getResources().getColor(R.color.black));
         });
