@@ -8,4 +8,6 @@
     <string name="text_06">Green</string>
     <string name="text_07">Blue</string>
     <string name="text_08">1</string>
+    <string name="empty" />
+
 </resources>
